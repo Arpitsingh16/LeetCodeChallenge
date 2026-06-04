@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0069-sqrtx) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
