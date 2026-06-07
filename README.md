@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
