@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -78,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
