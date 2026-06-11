@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arpitsingh16/LeetCodeChallenge/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
